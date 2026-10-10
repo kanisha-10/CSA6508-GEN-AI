@@ -1,0 +1,42 @@
+!pip install -q transformers
+
+from transformers import AutoTokenizer
+
+# Load BERT tokenizer
+bert_tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
+
+# Load GPT-2 tokenizer
+gpt_tokenizer = AutoTokenizer.from_pretrained("gpt2")
+
+# Input text
+text = "Generative AI is changing the way we learn."
+
+# BERT tokenization
+bert_tokens = bert_tokenizer.tokenize(text)
+bert_token_ids = bert_tokenizer.encode(text, add_special_tokens=False)
+
+# GPT-2 tokenization
+gpt_tokens = gpt_tokenizer.tokenize(text)
+gpt_token_ids = gpt_tokenizer.encode(text, add_special_tokens=False)
+
+# Display results
+print("Original Text:")
+print(text)
+
+print("\nBERT Tokenization:")
+print(bert_tokens)
+
+print("\nBERT Token IDs:")
+print(bert_token_ids)
+
+print("\nNumber of BERT Tokens:")
+print(len(bert_tokens))
+
+print("\nGPT-2 Tokenization:")
+print(gpt_tokens)
+
+print("\nGPT-2 Token IDs:")
+print(gpt_token_ids)
+
+print("\nNumber of GPT-2 Tokens:")
+print(len(gpt_tokens))

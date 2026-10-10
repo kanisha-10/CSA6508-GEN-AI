@@ -1,0 +1,40 @@
+!pip install -q transformers torch
+
+import torch
+from transformers import AutoTokenizer, AutoModel
+
+# Load pre-trained BERT model and tokenizer
+model_name = "bert-base-uncased"
+
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModel.from_pretrained(model_name)
+
+# Input text
+text = "Artificial intelligence is transforming education."
+
+# Tokenize the text
+inputs = tokenizer(
+    text,
+    return_tensors="pt",
+    padding=True,
+    truncation=True
+)
+
+# Generate contextual embeddings
+with torch.no_grad():
+    outputs = model(**inputs)
+
+embeddings = outputs.last_hidden_state
+
+# Display results
+print("Input Text:")
+print(text)
+
+print("\nTokens:")
+print(tokenizer.tokenize(text))
+
+print("\nEmbedding Shape:")
+print(embeddings.shape)
+
+print("\nContextual Embedding:")
+print(embeddings)

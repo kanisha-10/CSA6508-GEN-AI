@@ -1,0 +1,5 @@
+method,mean_acc_pct,in_tok,out_tok,out_tok_multiple,cost_usd_per_1000,extra_correct_per_1000,usd_per_extra_correct
+direct,75.0,150,8,1.0,0.0273,0.0,-
+zero-shot CoT,83.8,160,150,18.8,0.114,88.0,0.00099
+few-shot CoT,88.8,270,160,20.0,0.1365,138.0,0.00079
+self-consistency m=5,91.0,1350,800,100.0,0.6825,160.0,0.00409

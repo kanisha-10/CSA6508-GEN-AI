@@ -1,0 +1,51 @@
+qid,steps,question,gold
+M10,1,I have 72% attendance. May I write the exam? Answer yes or no.,no
+M11,1,I have 87% attendance. May I write the exam? Answer yes or no.,yes
+M12,1,I have 64% attendance. May I write the exam? Answer yes or no.,no
+M13,1,I have 85% attendance. May I write the exam? Answer yes or no.,yes
+M14,1,I have 86% attendance. May I write the exam? Answer yes or no.,yes
+M15,1,I have 89% attendance. May I write the exam? Answer yes or no.,yes
+M16,1,I have 90% attendance. May I write the exam? Answer yes or no.,yes
+M17,1,I have 71% attendance. May I write the exam? Answer yes or no.,no
+M18,1,I have 86% attendance. May I write the exam? Answer yes or no.,yes
+M19,1,I have 77% attendance. May I write the exam? Answer yes or no.,yes
+M20,2,My fee balance is Rs 15000 and I pay after the due date. How much is the late fee (in Rs)?,750.00
+M21,2,My fee balance is Rs 16500 and I pay after the due date. How much is the late fee (in Rs)?,825.00
+M22,2,My fee balance is Rs 19000 and I pay after the due date. How much is the late fee (in Rs)?,950.00
+M23,2,My fee balance is Rs 18500 and I pay after the due date. How much is the late fee (in Rs)?,925.00
+M24,2,My fee balance is Rs 20000 and I pay after the due date. How much is the late fee (in Rs)?,1000.00
+M25,2,My fee balance is Rs 11500 and I pay after the due date. How much is the late fee (in Rs)?,575.00
+M26,2,My fee balance is Rs 29500 and I pay after the due date. How much is the late fee (in Rs)?,1475.00
+M27,2,My fee balance is Rs 11500 and I pay after the due date. How much is the late fee (in Rs)?,575.00
+M28,2,My fee balance is Rs 24500 and I pay after the due date. How much is the late fee (in Rs)?,1225.00
+M29,2,My fee balance is Rs 25000 and I pay after the due date. How much is the late fee (in Rs)?,1250.00
+M30,3,My fee balance is Rs 11000 and I pay after the due date. What total must I pay (in Rs)?,11550.00
+M31,3,My fee balance is Rs 26000 and I pay after the due date. What total must I pay (in Rs)?,27300.00
+M32,3,My fee balance is Rs 20500 and I pay after the due date. What total must I pay (in Rs)?,21525.00
+M33,3,My fee balance is Rs 28500 and I pay after the due date. What total must I pay (in Rs)?,29925.00
+M34,3,My fee balance is Rs 15500 and I pay after the due date. What total must I pay (in Rs)?,16275.00
+M35,3,My fee balance is Rs 20500 and I pay after the due date. What total must I pay (in Rs)?,21525.00
+M36,3,My fee balance is Rs 20000 and I pay after the due date. What total must I pay (in Rs)?,21000.00
+M37,3,My fee balance is Rs 29000 and I pay after the due date. What total must I pay (in Rs)?,30450.00
+M38,3,My fee balance is Rs 12500 and I pay after the due date. What total must I pay (in Rs)?,13125.00
+M39,3,My fee balance is Rs 17500 and I pay after the due date. What total must I pay (in Rs)?,18375.00
+M40,4,"My CGPA is 7.8, fee balance Rs 9000, and I pay after the due date. What total must I pay (in Rs)?",9450.00
+M41,4,"My CGPA is 8.6, fee balance Rs 11500, and I pay after the due date. What total must I pay (in Rs)?",10867.50
+M42,4,"My CGPA is 8.6, fee balance Rs 28500, and I pay after the due date. What total must I pay (in Rs)?",26932.50
+M43,4,"My CGPA is 8.6, fee balance Rs 20500, and I pay after the due date. What total must I pay (in Rs)?",19372.50
+M44,4,"My CGPA is 8.6, fee balance Rs 23500, and I pay after the due date. What total must I pay (in Rs)?",22207.50
+M45,4,"My CGPA is 7.8, fee balance Rs 9000, and I pay after the due date. What total must I pay (in Rs)?",9450.00
+M46,4,"My CGPA is 9.1, fee balance Rs 18500, and I pay after the due date. What total must I pay (in Rs)?",17482.50
+M47,4,"My CGPA is 9.1, fee balance Rs 9500, and I pay after the due date. What total must I pay (in Rs)?",8977.50
+M48,4,"My CGPA is 9.1, fee balance Rs 18500, and I pay after the due date. What total must I pay (in Rs)?",17482.50
+M49,4,"My CGPA is 7.8, fee balance Rs 8000, and I pay after the due date. What total must I pay (in Rs)?",8400.00
+M50,5,"My CGPA is 8.2, fee balance Rs 28500, I pay after the due date in 2 equal instalments. How much is each instalment (in Rs)?",14962.50
+M51,5,"My CGPA is 8.6, fee balance Rs 19500, I pay after the due date in 2 equal instalments. How much is each instalment (in Rs)?",9213.75
+M52,5,"My CGPA is 7.8, fee balance Rs 29500, I pay after the due date in 4 equal instalments. How much is each instalment (in Rs)?",7743.75
+M53,5,"My CGPA is 9.1, fee balance Rs 25500, I pay after the due date in 2 equal instalments. How much is each instalment (in Rs)?",12048.75
+M54,5,"My CGPA is 7.8, fee balance Rs 27000, I pay after the due date in 4 equal instalments. How much is each instalment (in Rs)?",7087.50
+M55,5,"My CGPA is 7.8, fee balance Rs 19500, I pay after the due date in 3 equal instalments. How much is each instalment (in Rs)?",6825.00
+M56,5,"My CGPA is 8.2, fee balance Rs 28500, I pay after the due date in 2 equal instalments. How much is each instalment (in Rs)?",14962.50
+M57,5,"My CGPA is 8.2, fee balance Rs 18500, I pay after the due date in 4 equal instalments. How much is each instalment (in Rs)?",4856.25
+M58,5,"My CGPA is 9.1, fee balance Rs 23500, I pay after the due date in 4 equal instalments. How much is each instalment (in Rs)?",5551.88
+M59,5,"My CGPA is 7.8, fee balance Rs 13000, I pay after the due date in 2 equal instalments. How much is each instalment (in Rs)?",6825.00

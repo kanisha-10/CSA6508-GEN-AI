@@ -1,0 +1,11 @@
+model,r,lora_params,full_qv_params,pct_of_qv
+"Generic 4096-d, 32 layers (square q,v)",2,1048576,1073741824,0.098
+"Generic 4096-d, 32 layers (square q,v)",4,2097152,1073741824,0.195
+"Generic 4096-d, 32 layers (square q,v)",8,4194304,1073741824,0.391
+"Generic 4096-d, 32 layers (square q,v)",16,8388608,1073741824,0.781
+"Generic 4096-d, 32 layers (square q,v)",64,33554432,1073741824,3.125
+"Qwen2.5-0.5B-like: L=24, d=896, v_proj 896->128 (GQA) [verify config.json]",2,135168,22020096,0.614
+"Qwen2.5-0.5B-like: L=24, d=896, v_proj 896->128 (GQA) [verify config.json]",4,270336,22020096,1.228
+"Qwen2.5-0.5B-like: L=24, d=896, v_proj 896->128 (GQA) [verify config.json]",8,540672,22020096,2.455
+"Qwen2.5-0.5B-like: L=24, d=896, v_proj 896->128 (GQA) [verify config.json]",16,1081344,22020096,4.911
+"Qwen2.5-0.5B-like: L=24, d=896, v_proj 896->128 (GQA) [verify config.json]",64,4325376,22020096,19.643

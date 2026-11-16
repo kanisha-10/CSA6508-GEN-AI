@@ -1,0 +1,301 @@
+id,split,text,label,kind
+0,train,"Respected sir, Class on Tuesday for CSE A is not in the timetable but the faculty is taking it.",Academic-Timetable,plain
+1,train,The tap in the mess washing area leaks all day.,Hostel-Maintenance,hard
+2,train,"Sir/Madam, snacks was cold and had insects. Please look into th emess quality.",Hostel-Mess,plain
+3,train,"Water is leaking near the power socket in room 403, A block. Please send the maintenance staff.",Hostel-Maintenance,plain
+4,train,Urgent - The window latch in room 220o f B block is not working since yesterday.,Hostel-Maintenance,plain
+5,train,Dinner was served late because the mess power socket failed; the food quality was poor as well.,Hostel-Mess,hard
+6,train,Revaluation status for ITA05 is not updated after two days.,Exam-Results,plain
+7,train,"Respected sir, Our hostel mess gave no drinking water in breakfast again this week.",Hostel-Mess,plain
+8,train,snacks was cold and had undercooked chapati. Please look into the mess quality.,Hostel-Mess,plain
+9,train,"Respected sir, window latch broken in D block room 409, complaint pending for last week.",Hostel-Maintenance,plain
+10,train,"Urgent - ECE section C timetable has no free hour for lab on Wednesady, please revise.",Academic-Timetable,plain
+11,train,"Sir/Madam, Fee receipt for semester 4 is not genreated though I paid by card.",Fees-Finance,plain
+12,train,Urgent - Wi-Fi in D block keeps disconnectign since morning.,IT-Portal-WiFi,plain
+13,train,"Urgent - Late fee was charged although I paidb efore the due date, semester 3.",Fees-Finance,plain
+14,train,lunch was cold and had undercooked chapati. Please look into the mess quality.,Hostel-Mess,plain
+15,train,"Unable to log in to the student portal, OTP not received.",IT-Portal-WiFi,plain
+16,train,Please help: LMS page for CSA1111 does not open and shows error 500.,IT-Portal-WiFi,plain
+17,train,Revaluation status for CSA6507 is not updated after last week.,Exam-Results,plain
+18,train,Wi-Fi in A block keeps disconnecting since three days.,IT-Portal-WiFi,plain
+19,train,Our hostel mess gave too little quantity in breakfast again this week.,Hostel-Mess,plain
+20,train,Fee receipt for semester 5 is not generated though I paid by net banking.,Fees-Finance,plain
+21,train,Please help: Period allotment for IT-C on Wednesday clashes with the elective slot.,Academic-Timetable,plain
+22,train,Please help: Scholarship amount was not adjusted in my semester 6 fee.,Fees-Finance,plain
+23,train,Urgent - Result for ITA05 shows absent though I wrote the exam.,Exam-Results,plain
+24,train,My ITA05 internal marks are missing from the potral.,Exam-Results,plain
+25,train,The tap in the mess washing area leaks all day.,Hostel-Maintenance,hard
+26,train,The geyser in room 213 is dead and the mess hot-water line also fails; fix the geyser first.,Hostel-Maintenance,hard
+27,train,Campus email account is locked and password reset link fails.,IT-Portal-WiFi,plain
+28,train,Please help: Timetable for CSE section B shows two subjects at the saem hour on Monday.,Academic-Timetable,plain
+29,train,"Unable to log in to the student portal, OTP not received.",IT-Portal-WiFi,plain
+30,train,Please help: Our hostel mess gavet oo little quantity in dinner again this week.,Hostel-Mess,plain
+31,train,Urgent - The tap in room 380 of C block is not working since yesterday.,Hostel-Maintenance,plain
+32,train,Period allotment for ECE-B on Friday clashes with the elective slot.,Academic-Timetable,plain
+33,train,The tap in the mess washing area leaks all day.,Hostel-Maintenance,hard
+34,train,"Please help: Water is leaking near the window latch in room 243, A block. Please send the maintenacne staff.",Hostel-Maintenance,plain
+35,train,Urgent - Amount debited via net banking but fee shows pending for semester 4.,Fees-Finance,plain
+36,train,Revaluation status fro CSA1111 is not updated after last week.,Exam-Results,plain
+37,train,"Respected sir, Perioda llotment for CSE-C on Friday clashes with the elective slot.",Academic-Timetable,plain
+38,train,Dinner was served late because the mess power socket failed; the food quality was poor as well.,Hostel-Mess,hard
+39,train,"Respected sir, Scholarship amount aws not adjusted in my semester 5 fee.",Fees-Finance,plain
+40,train,Please help: Our hostel mess gav estale rice in breakfast again this week.,Hostel-Mess,plain
+41,train,Revaluation status for MAT201 is not updated after morning.,Exam-Results,plain
+42,train,Exam timetable and class timetable overlap for IT on Thursday; I need the class timetable corrected.,Academic-Timetable,hard
+43,train,Revaluation status for MAT201 is not updated after yesterday.,Exam-Results,plain
+44,train,Please help: Fee receipt for semester 3 is not generated though I paid by UPI.,Fees-Finance,plain
+45,train,Please help: LMS page for MAT20 1does not open and shows error 500.,IT-Portal-WiFi,plain
+46,train,Please help: LMS page for CSA6507 does not open and shows error 500.,IT-Portal-WiFi,plain
+47,train,Campus emaila ccount is locked and password reset link fails.,IT-Portal-WiFi,plain
+48,train,"IT section B timetable has no free hour for lab on Wednesday, please revise.",Academic-Timetable,plain
+49,train,Our hostel mess gave stale rice in breakfats again this week.,Hostel-Mess,plain
+50,train,"Respected sir, Timetable for MECH section B shows two subjects at the same hour on Friday.",Academic-Timetable,plain
+51,train,"MECH sectionA  timetable has no free hour for lab on Tuesday, please revise.",Academic-Timetable,plain
+52,train,"Respected sir, Scholarship amount was no tadjusted in my semester 5 fee.",Fees-Finance,plain
+53,train,Urgent - Wi-Fi in D block keeps disconnecting since last week.,IT-Portal-WiFi,plain
+54,train,Class on Wednesday for MECH A is not in the timetable but the faculty is taking ti.,Academic-Timetable,plain
+55,train,Dinner was served late because the mess power socket failed; the food quality was poor as well.,Hostel-Mess,hard
+56,train,"Respected sir, Period allotment fro CSE-B on Thursday clashes with the elective slot.",Academic-Timetable,plain
+57,train,Urgent - Result for CSA1111 shows absent though I wrote the exam.,Exam-Results,plain
+58,train,"power socket broken in B block room 148, complaint pending for morning.",Hostel-Maintenance,plain
+59,train,Urgent - Period allotment for MECH-C on Thursday clashes with the elective lsot.,Academic-Timetable,plain
+60,train,"Sir/Madam, LMS page for ITA05 does not open and shows error 500.",IT-Portal-WiFi,plain
+61,train,Our hostel mess gave too little quantity in snacks again this week.,Hostel-Mess,plain
+62,train,"Respected sir, Unbale to log in to the student portal, OTP not received.",IT-Portal-WiFi,plain
+63,train,Timetable page on the portal throws an error and I cannot see Wednesday classes.,IT-Portal-WiFi,hard
+64,train,"Sir/Madam, Please repair the door lock in my room 213 (A block), it stopped working yesterday.",Hostel-Maintenance,plain
+65,train,"Please help: Please repair the cot in my room 409 (D block), it stopped working yestreday.",Hostel-Maintenance,plain
+66,train,Please help: My CSA1111 internla marks are missing from the portal.,Exam-Results,plain
+67,train,"Sir/Madam, Hall ticket for the CSA1111 exam is not generated yet.",Exam-Results,plain
+68,train,Please help: Fee receipt for semester 6 is not generated though I paid by card.,Fees-Finance,plain
+69,train,Campus email account is locked and password reset link fails.,IT-Portal-WiFi,plain
+70,train,Please help: My MAT201 internal marks aer missing from the portal.,Exam-Results,plain
+71,train,The snacks served in the mess today had too littleq uantity.,Hostel-Mess,plain
+72,train,Please help: Mess complaint: undercooked chapati found i ndinner at C block mess.,Hostel-Mess,plain
+73,train,Hall ticket for the CSA1111 exam is not geenrated yet.,Exam-Results,plain
+74,train,breakfast was cold and had stale rice. Please look into the mess quality.,Hostel-Mess,plain
+75,train,"Sir/Madam, The cot in room 104 of A block is not working since yesterday.",Hostel-Maintenance,plain
+76,train,"Sir/Madam, Hall ticket for the CSA6507 exam is not egnerated yet.",Exam-Results,plain
+77,train,My MAT201 internal mraks are missing from the portal.,Exam-Results,plain
+78,train,Urgent - Period allotment for ECE-C on Thursdayc lashes with the elective slot.,Academic-Timetable,plain
+79,train,"Sir/Madam, Fee receipt for semester 3 is not genertaed though I paid by UPI.",Fees-Finance,plain
+80,train,Class on Friday for MECH C is not in the timetable but the faculty is taking it.,Academic-Timetable,plain
+81,train,"Respected sir, The cot in room 145 of B block is not worikng since morning.",Hostel-Maintenance,plain
+82,train,Portal shows my CSA6507 marks but the hall ticket download button is disabled by the IT system.,Exam-Results,hard
+83,train,"Respected sir, Mess complaint: no drinking water found in dinner at A block mess.",Hostel-Mess,plain
+84,train,Amount debited via UPI but fee shows pending for semester 4.,Fees-Finance,plain
+85,train,"Please help: ECE section A timetable has no free hour for lab on Friday, please revise.",Academic-Timetable,plain
+86,train,"Respected sir, Mess complaint: no drinking water found in dinner at C block mess.",Hostel-Mess,plain
+87,train,"Respected sir, tube light broken in B block room 104, complaint pendign for last week.",Hostel-Maintenance,plain
+88,train,Hall ticket for the MAT201 exam is not generated yet.,Exam-Results,plain
+89,train,The fan in room 172 of D block is not working since lastw eek.,Hostel-Maintenance,plain
+90,train,dinner was cold and had isnects. Please look into the mess quality.,Hostel-Mess,plain
+91,train,Hlal ticket for the CSA1111 exam is not generated yet.,Exam-Results,plain
+92,train,"Respected sir, breakfast was cold and had too little quantity. Please look into the mess quality.",Hostel-Mess,plain
+93,train,"Sir/Madam, Please repair the door loc kin my room 380 (C block), it stopped working three days.",Hostel-Maintenance,plain
+94,train,Please help: Scholarship amount was not adjusted in my semester 4 fee.,Fees-Finance,plain
+95,train,"Respected sir, Wi-Fi in B block keeps disconnecting since yesterady.",IT-Portal-WiFi,plain
+96,train,Portal shows my CSA1111 marks but the hall ticket download button is disabled by the IT system.,Exam-Results,hard
+97,train,Urgent - Hall ticket for theC SA1111 exam is not generated yet.,Exam-Results,plain
+98,train,"Late fee was charged although I paid before the due date, semester 5.",Fees-Finance,plain
+99,train,snacks was cold and had insects. Please look into the mess uqality.,Hostel-Mess,plain
+100,train,"Sir/Madam, MECH section B timetable has no free hour for lab on Thursday, please revise.",Academic-Timetable,plain
+101,train,"Sir/Madam, Mess complaint: stale rice found in dinner at A block mess.",Hostel-Mess,plain
+102,train,"Respected sir, Late fee was charged although I paid before the due date, semester 4.",Fees-Finance,plain
+103,train,Please help: Result for MAT201 shows absent though I wrote the exam.,Exam-Results,plain
+104,train,The snacks served in hte mess today had undercooked chapati.,Hostel-Mess,plain
+105,train,Please help: LMSp age for MAT201 does not open and shows error 500.,IT-Portal-WiFi,plain
+106,train,The lunch served in the mess today had no drinking water.,Hostel-Mess,plain
+107,train,Urgent - LMS page for ITA05 does not open and shows error 500.,IT-Portal-WiFi,plain
+108,train,"Water is leaking near the tube light in room 158, C block. Please send the maintenance staff.",Hostel-Maintenance,plain
+109,train,"Respected sir, Scholarship amount was not adjusted in my semester 4 fee.",Fees-Finance,plain
+110,train,Timetable for IT section C sohws two subjects at the same hour on Tuesday.,Academic-Timetable,plain
+111,train,"Sir/Madam, Amount debited via net bankign but fee shows pending for semester 3.",Fees-Finance,plain
+112,train,LMS page for CSA6507 does noto pen and shows error 500.,IT-Portal-WiFi,plain
+113,train,"Respected sir, Wi-Fi in B block keepsd isconnecting since two days.",IT-Portal-WiFi,plain
+114,train,Urgent - Timetable for CSE section B shows two subjects at the same hour on Wednesday.,Academic-Timetable,plain
+115,train,"Late fee was charged although I paid before the due date, semester 6.",Fees-Finance,plain
+116,train,Urgent - LMS pagef or ITA05 does not open and shows error 500.,IT-Portal-WiFi,plain
+117,train,"Urgent - Unable to log in to the student portal, OTP not received.",IT-Portal-WiFi,plain
+118,train,"CSE section A timetable has no free hour for lab on Friday, please revise.",Academic-Timetable,plain
+119,train,Fee receipt for semester 6 is not generated though I paid by net banking.,Fees-Finance,plain
+120,train,"Respected sir, The power scoket in room 380 of A block is not working since two days.",Hostel-Maintenance,plain
+121,train,"Please help: Water is leaking near the geyser in room 158, C block. Please send the maintenance staff.",Hostel-Maintenance,plain
+122,train,"Sir/Madam, Wi-Fi in D block keeps disconnecting since yesterday.",IT-Portal-WiFi,plain
+123,train,Please help: Our hostel mess gave insects in snacks again this week.,Hostel-Mess,plain
+124,train,Urgent - Hall ticekt for the CSA1111 exam is not generated yet.,Exam-Results,plain
+125,train,"fan rboken in A block room 212, complaint pending for two days.",Hostel-Maintenance,plain
+126,train,"Unabl eto log in to the student portal, OTP not received.",IT-Portal-WiFi,plain
+127,train,Mess complaint: no drinikng water found in dinner at D block mess.,Hostel-Mess,plain
+128,train,"Sir/Madam, Amount debited via UPI but fee show spending for semester 4.",Fees-Finance,plain
+129,train,Please help: My ITA05 internal marks are missing from the portal.,Exam-Results,plain
+130,train,LMS page forC SA1111 does not open and shows error 500.,IT-Portal-WiFi,plain
+131,train,Please help: The door lock in room 388o f B block is not working since two days.,Hostel-Maintenance,plain
+132,train,"Urgent - Unable to log in to the student portal, OTP not received.",IT-Portal-WiFi,plain
+133,train,"Sir/Madam, Fee receipt for semester 5 is not generated though I paid by UPI.",Fees-Finance,plain
+134,train,"Respected sir, Late fee was charged although I paid before the due date, semester 6.",Fees-Finance,plain
+135,train,lunch was cold and had too little quantity. Please look into the mess quality.,Hostel-Mess,plain
+136,train,Wi-Fi in A block is down so I could not pay the semester fee online before the due date; please remove the late fee.,Fees-Finance,hard
+137,train,"Urgent - Water is leaking near the geyser in room 158, D block. Please send the maintenance staff.",Hostel-Maintenance,plain
+138,train,"Respected sir, Water is leaking near the geyser in room 182, A block. Please send the maintenance staff.",Hostel-Maintenance,plain
+139,train,"Respected sir, Please repair the geyser in my room 212 (D block), it stopped working morning.",Hostel-Maintenance,plain
+140,train,Amount debited via net banking but efe shows pending for semester 5.,Fees-Finance,plain
+141,train,"Respected sir, Class on Thursday for CSE A is not in the timetable but the faculty is atking it.",Academic-Timetable,plain
+142,train,Dinner was served late because the mess power socket failed; the food quality was poor as well.,Hostel-Mess,hard
+143,train,"Urgent - Unable to log in to the student portal, OTP not received.",IT-Portal-WiFi,plain
+144,train,"Sir/Madam, Timetable for CSE section B shows two subjects at the same hour on Friady.",Academic-Timetable,plain
+145,train,Timetable page on the portal throws an error and I cannot see Tuesday classes.,IT-Portal-WiFi,hard
+146,train,My CSA6507 internal marks are missing fro mthe portal.,Exam-Results,plain
+147,train,Timetable page on the portal throws an error and I cannot see Friday classes.,IT-Portal-WiFi,hard
+148,train,"Sir/Madam, Revaluation status for CSA1111 is not updated after yesterday.",Exam-Results,plain
+149,train,Hall ticket for teh CSA6507 exam is not generated yet.,Exam-Results,plain
+150,train,"Late fee was charged although I paid before the due date, semester 3.",Fees-Finance,plain
+151,train,Urgent - Class on Monday for MECH B is not in the timetable but the faculty is taking it.,Academic-Timetable,plain
+152,train,Revaluation status for MAT201 is not updated after three days.,Exam-Results,plain
+153,train,Please help: Our hostel mess gvae no drinking water in snacks again this week.,Hostel-Mess,plain
+154,train,Amount debited via net bankin gbut fee shows pending for semester 4.,Fees-Finance,plain
+155,train,Campus email account is locked and password reset link fails.,IT-Portal-WiFi,plain
+156,train,Revaluation status for MAT201 is not updated after three days.,Exam-Results,plain
+157,train,Urgent - Mess complaint: undercooked chapati found in dinner at D block mess.,Hostel-Mess,plain
+158,train,Exam timetable and class timetable overlap for IT on Friday; I need the class timetable corrected.,Academic-Timetable,hard
+159,train,The geyser in room 409 is dead and the mess hot-water line also fails; fix the geyser first.,Hostel-Maintenance,hard
+160,train,"Sir/Madam, Late fee was charged although I paid before the due date, semester 5.",Fees-Finance,plain
+161,train,"Sir/Madam, Water is leaking near the window latch in room 114, B block. Please send the maintenance staff.",Hostel-Maintenance,plain
+162,train,"Unable to log in to the student portal, OTP not received.",IT-Portal-WiFi,plain
+163,train,Urgent - Mess complaint: too little quantity found in breakfast at C block mess.,Hostel-Mess,plain
+164,train,Mess bill of this month is wrongly added to my fee statement.,Fees-Finance,hard
+165,train,Please help: Result for MAT201 shows absent though I wrote the exam.,Exam-Results,plain
+166,train,Portal shows my MAT201 marks but the hall ticket download button is disabled by the IT system.,Exam-Results,hard
+167,train,Class on Friday for IT B is not in the timetable but the faculty ist aking it.,Academic-Timetable,plain
+168,train,Please help: Mess complaint: insects ofund in dinner at D block mess.,Hostel-Mess,plain
+169,train,Result for MAT201 shows absent though I wrote the exam.,Exam-Results,plain
+170,train,Urgent - dinner was cold and had nod rinking water. Please look into the mess quality.,Hostel-Mess,plain
+171,train,Hall ticket for the CSA1111 exam is not generated yet.,Exam-Results,plain
+172,train,"Please help: ECE section A timetable has no free hour for lab on Tuesday, please revsie.",Academic-Timetable,plain
+173,train,"Sir/Madam, Scholarship amount was not adjusted in my semester 4 fee.",Fees-Finance,plain
+174,train,Please help: Timetable for IT section A shows two subjecst at the same hour on Wednesday.,Academic-Timetable,plain
+175,train,"Sir/Madam, Unable to log in ot the student portal, OTP not received.",IT-Portal-WiFi,plain
+176,train,"Respected sir, Campus email account is locked and password reset link fails.",IT-Portal-WiFi,plain
+177,train,"Respected sir, Class on Friday fro ECE C is not in the timetable but the faculty is taking it.",Academic-Timetable,plain
+178,train,"Sir/Madam, Revaluation status for ITA05 is not updated after two dasy.",Exam-Results,plain
+179,train,Urgent - Campus email account is locked and password reset link fails.,IT-Portal-WiFi,plain
+180,train,"Urgent - MECH section C timetable has no free hour for lab on Tuesday, please revise.",Academic-Timetable,plain
+181,train,"Sir/Madam, The dinner served in the mess today had too littel quantity.",Hostel-Mess,plain
+182,train,"Respected sir, lunch was cold and had insects. Please look into the mess quality.",Hostel-Mess,plain
+183,train,Period allotment for MECH-B on Friday clashes wiht the elective slot.,Academic-Timetable,plain
+184,train,"cot broken in A block room 403, complaint pending for yesterday.",Hostel-Maintenance,plain
+185,train,Please help: Period allotment for ECE-B on Tuesday clashes with the elective slot.,Academic-Timetable,plain
+186,test,LMS page for MAT201 does not open and shows error 500.,IT-Portal-WiFi,plain
+187,train,"Sir/Madam, MECH section C timetable has no free hour for lab on Wednesday, please revise.",Academic-Timetable,plain
+188,train,"Respected sir, Result for MAT201 shows absent though I rwote the exam.",Exam-Results,plain
+189,train,Urgent - Timetable for MEHC section B shows two subjects at the same hour on Friday.,Academic-Timetable,plain
+190,test,Urgent - Mess complaint: insects foundi n dinner at C block mess.,Hostel-Mess,plain
+191,test,"Sir/Madam, Timetable for ECE section A shows two subjects at the same hour on Thusrday.",Academic-Timetable,plain
+192,train,Amount debited via net banking but fee shows pending for semester 6.,Fees-Finance,plain
+193,test,"Sir/Madam, Result for CSA1111 shows absent though I wrote the exam.",Exam-Results,plain
+194,train,Scholarship amount was no tadjusted in my semester 6 fee.,Fees-Finance,plain
+195,train,"Respected sir, Late fee was charged altohugh I paid before the due date, semester 5.",Fees-Finance,plain
+196,train,The tap in the mess washing area leaks all day.,Hostel-Maintenance,hard
+197,train,"Sir/Madam, The power socket in room 145 of D block is not worikng since yesterday.",Hostel-Maintenance,plain
+198,test,"Respected sir, My IAT05 internal marks are missing from the portal.",Exam-Results,plain
+199,train,"Urgent - Late fee was charged although I paid before teh due date, semester 6.",Fees-Finance,plain
+200,train,Wi-Fi in B block is down so I could not pay the semester fee online before the due date; please remove the late fee.,Fees-Finance,hard
+201,test,"Late fee was charged although I paid before the due date, semester 3.",Fees-Finance,plain
+202,train,"Sir/Madam, Please repair the window latch in my room 241 (B block), it tsopped working three days.",Hostel-Maintenance,plain
+203,train,"Sir/Madam, The geyser in room 148 of B block is not working since last week.",Hostel-Maintenance,plain
+204,test,Result for MAT201 shows absent though I wrote the exam.,Exam-Results,plain
+205,test,Timetable page on the portal throws an error and I cannot see Monday classes.,IT-Portal-WiFi,hard
+206,test,Dinner was served late because the mess power socket failed; the food quality was poor as well.,Hostel-Mess,hard
+207,test,Urgent - Hall ticket fo rthe CSA1111 exam is not generated yet.,Exam-Results,plain
+208,test,"Late fee was charged although I paid before the due date, semester 4.",Fees-Finance,plain
+209,test,"Sir/Madam, Amount debited via net banking but fee shows pending for semester 3.",Fees-Finance,plain
+210,test,Period aloltment for CSE-B on Wednesday clashes with the elective slot.,Academic-Timetable,plain
+211,test,Urgent - Campus email account isl ocked and password reset link fails.,IT-Portal-WiFi,plain
+212,test,Urgent - Our hostel mess gave undercooked chapati in lunch again this week.,Hostel-Mess,plain
+213,test,"CSE section C timetable has no free hour for lab on Friday ,please revise.",Academic-Timetable,plain
+214,test,Timetable page on the portal throws an error and I cannot see Friday classes.,IT-Portal-WiFi,hard
+215,train,"Respected sir, Please repair the window latch in my orom 409 (D block), it stopped working last week.",Hostel-Maintenance,plain
+216,test,Wi-Fi in A block keeps disconnecting since two days.,IT-Portal-WiFi,plain
+217,test,"MECH section A timetable has no free hour for lab on Thursday, please revise.",Academic-Timetable,plain
+218,test,My CSA1111 internal marks are missing from the portal.,Exam-Results,plain
+219,test,"Respected sir, Amoutn debited via UPI but fee shows pending for semester 4.",Fees-Finance,plain
+220,test,"Unable to log in to the student portal, OTP not received.",IT-Portal-WiFi,plain
+221,test,Our hostel mess gave insects ni snacks again this week.,Hostel-Mess,plain
+222,test,"Respected sir, Fee receipt for semester 3 is not generated though I paid by net banking.",Fees-Finance,plain
+223,train,The window latch in room 388 of A block is not working since yesterday.,Hostel-Maintenance,plain
+224,test,Wi-Fi in D block is down so I could not pay the semester fee online before the due date; please remove the late fee.,Fees-Finance,hard
+225,test,My CSA1111 internal marks are missing from the portal.,Exam-Results,plain
+226,test,Urgent - Mess complaint: insects found in brekafast at C block mess.,Hostel-Mess,plain
+227,test,"Sir/Madam, Hall ticket for the ITA05 xeam is not generated yet.",Exam-Results,plain
+228,test,Result for CSA6507 shows absent though I wrote the exam.,Exam-Results,plain
+229,test,"Respected sir, Please repair the geyser in my room 403 (C block), it stopped working three days.",Hostel-Maintenance,plain
+230,test,"Respected sir, Campus email account is locked and password reset link fails.",IT-Portal-WiFi,plain
+231,test,Wi-Fi in B block is down so I could not pay the semester fee online before the due date; please remove the late fee.,Fees-Finance,hard
+232,test,The dinner served in the mess today had too little quantity.,Hostel-Mess,plain
+233,test,"Sir/Madam, geyser broken in B block room 182, complain tpending for yesterday.",Hostel-Maintenance,plain
+234,test,"Respected sir, Wi-Fi in A block keeps disconnecting since last week.",IT-Portal-WiFi,plain
+235,test,"Sir/Madam, Mess complaint: too little quantity found in lunch at A block mess.",Hostel-Mess,plain
+236,test,Urgent - The geyser in room 359 of A block is not working since alst week.,Hostel-Maintenance,plain
+237,test,Wi-Fi in D block keeps discnonecting since two days.,IT-Portal-WiFi,plain
+238,test,Campus email account is locked and password reset link fails.,IT-Portal-WiFi,plain
+239,test,"CSE seciton B timetable has no free hour for lab on Tuesday, please revise.",Academic-Timetable,plain
+240,test,Mess bill of this month is wrongly added to my fee statement.,Fees-Finance,hard
+241,test,LMS page for MAT201 does not open and shows error 500.,IT-Portal-WiFi,plain
+242,test,Urgent - Class on Thursday for ECE C is not in the timetable but the faculty si taking it.,Academic-Timetable,plain
+243,test,"Water is leaking near the fan in room 220, A block. Please send the maintenance staff.",Hostel-Maintenance,plain
+244,test,"Urgent - Water is leaking near the tube light in room 317, D block. Please send the maintenance staff.",Hostel-Maintenance,plain
+245,test,"Sir/Madam, Wi-Fi in D block keeps disconnecting since three days.",IT-Portal-WiFi,plain
+246,test,Scholarship amount was not adjusted in my semester 3 fee.,Fees-Finance,plain
+247,test,"Sir/Madam, Campus email accuont is locked and password reset link fails.",IT-Portal-WiFi,plain
+248,test,"Sir/Madam, Water is leaking near the power oscket in room 359, D block. Please send the maintenance staff.",Hostel-Maintenance,plain
+249,test,"Urgent - ECE section C timetable has no free hour for lab on Thursday ,please revise.",Academic-Timetable,plain
+250,test,Our hostel mess gave insects in ulnch again this week.,Hostel-Mess,plain
+251,test,"Sir/Madam, Fee receipt fro semester 5 is not generated though I paid by UPI.",Fees-Finance,plain
+252,test,"Sir/Madam, Water is leaking near the windo wlatch in room 213, C block. Please send the maintenance staff.",Hostel-Maintenance,plain
+253,test,"Water is elaking near the geyser in room 402, B block. Please send the maintenance staff.",Hostel-Maintenance,plain
+254,test,The snacks served in the mess today had no drinking water.,Hostel-Mess,plain
+255,test,Amount debited via net banking but fee shows pending for semester 5.,Fees-Finance,plain
+256,test,Exam timetable and class timetable overlap for MECH on Tuesday; I need the class timetable corrected.,Academic-Timetable,hard
+257,test,Please help: Mess complaint: no drinking water found in dinner at C block mess.,Hostel-Mess,plain
+258,test,Class on Tuesday for ECE A is not in the timetable but the faculty is taking it.,Academic-Timetable,plain
+259,test,"fan broken in D block room 182, complaint pending for yesterday.",Hostel-Maintenance,plain
+260,test,Dinner was served late because the mess power socket failed; the food quality was poor as well.,Hostel-Mess,hard
+261,test,LMS page for ITA05 does not open and shows error 500.,IT-Portal-WiFi,plain
+262,test,The geyser in room 402 is dead and the mess hot-water line also fails; fix the geyser first.,Hostel-Maintenance,hard
+263,test,"Urgent - Late fee wa scharged although I paid before the due date, semester 4.",Fees-Finance,plain
+264,test,Period allotment for ECE-C on Tuesday clashes with the elective slot.,Academic-Timetable,plain
+265,test,Urgent - Wi-Fi in A block keeps disconnecting since two days.,IT-Portal-WiFi,plain
+266,test,Campus email account is locked and password reest link fails.,IT-Portal-WiFi,plain
+267,test,"Pleaser epair the fan in my room 113 (A block), it stopped working yesterday.",Hostel-Maintenance,plain
+268,test,"Respected sir, Mess complaint: undercooked chapati found in dinner at B block mess.",Hostel-Mess,plain
+269,test,Result for MAT201 shows absent though I wrote the exam.,Exam-Results,plain
+270,test,Result for MAT201 shows absent though I wrote the exam.,Exam-Results,plain
+271,test,My ITA05 internal marks are missing from the portal.,Exam-Results,plain
+272,test,Amount debited via card butf ee shows pending for semester 3.,Fees-Finance,plain
+273,test,"Respected sir, Timetable for MECH section C shows two subjects at the sameh our on Tuesday.",Academic-Timetable,plain
+274,test,"Urgent - Unable to log in to the studnet portal, OTP not received.",IT-Portal-WiFi,plain
+275,test,The tap in the mess washing area leaks all day.,Hostel-Maintenance,hard
+276,test,"Respected sir, Fee receipt for semester 4 is not generated though I paid by ne tbanking.",Fees-Finance,plain
+277,test,Timetable for CSE section B shows two subejcts at the same hour on Friday.,Academic-Timetable,plain
+278,test,"Water is leaking near the door lock in room 409, D block. Please send the maintenance staff.",Hostel-Maintenance,plain
+279,test,Timetable for IT section A shows two sujbects at the same hour on Friday.,Academic-Timetable,plain
+280,test,Amount debited via PUI but fee shows pending for semester 4.,Fees-Finance,plain
+281,test,Hall ticket fo rthe CSA6507 exam is not generated yet.,Exam-Results,plain
+282,test,"Urgent - MECH section C timetable has no free hour for lab on Monday, please revise.",Academic-Timetable,plain
+283,test,Our hostel mess gave stale rice in dinner again this week.,Hostel-Mess,plain
+284,test,"Urgent - fan broken in A block room 213, cmoplaint pending for two days.",Hostel-Maintenance,plain
+285,test,Revaluation status for CSA1111 is not udpated after three days.,Exam-Results,plain
+286,test,The tap in the mess washing area leaks all day.,Hostel-Maintenance,hard
+287,test,Mess complaint: stale rice found in dinner at A block mess.,Hostel-Mess,plain
+288,test,The breakfast served in the mes stoday had insects.,Hostel-Mess,plain
+289,test,Wi-Fi in B block is down so I could not pay the semester fee online before the due date; please remove the late fee.,Fees-Finance,hard
+290,test,"Respected sir, Unable to log in to the student poratl, OTP not received.",IT-Portal-WiFi,plain
+291,test,"Respected sir, Watre is leaking near the fan in room 145, C block. Please send the maintenance staff.",Hostel-Maintenance,plain
+292,test,Dinner was served late because the mess power socket failed; the food quality was poor as well.,Hostel-Mess,hard
+293,test,Wi-Fi in D block is down so I could not pay the semester fee online before the due date; please remove the late fee.,Fees-Finance,hard
+294,test,"Urgent - Water is leaking near the power socket in room 359, C block. Please send the maintenance staff.",Hostel-Maintenance,plain
+295,test,Urgent - Mess complaint: undercooked chapati found in lunch at B block mess.,Hostel-Mess,plain
+296,test,"Respected sir, window latch broken in B block room 220, complaint pending for eysterday.",Hostel-Maintenance,plain
+297,test,Urgent - Hall ticket for the ITA05 exam is notg enerated yet.,Exam-Results,plain
+298,test,Mess bill of this month is wrongly added to my fee statement.,Fees-Finance,hard
+299,test,Scholarship amount was not adjusted in ym semester 3 fee.,Fees-Finance,plain

@@ -1,0 +1,1 @@
+RULES: (1) A student may write the exam if attendance >= 75%. (2) Late fee = 5% of the fee balance when paid after the due date. (3) Merit scholarship: 10% off the fee balance if CGPA >= 8.5 (applied before the late fee). (4) Balance may be paid in equal instalments.

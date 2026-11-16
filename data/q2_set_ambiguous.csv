@@ -1,0 +1,51 @@
+qid,text,label
+A0,The tap in the mess washing area leaks all day.,Hostel-Maintenance
+A1,Timetable for CSE section C shows two subjects at the same hour on Wednesday.,Academic-Timetable
+A2,Mess bill of this month is wrongly added to my fee statement.,Fees-Finance
+A3,"CSE section C timetable has no free hour for lab on Thursday, please revise.",Academic-Timetable
+A4,Portal shows my MAT201 marks but the hall ticket download button is disabled by the IT system.,Exam-Results
+A5,"Respected sir, Unable tol og in to the student portal, OTP not received.",IT-Portal-WiFi
+A6,Mess bill of this month is wrongly added to my fee statement.,Fees-Finance
+A7,"Respected sir, Revaluation status for MAT201 is notu pdated after two days.",Exam-Results
+A8,Exam timetable and class timetable overlap for CSE on Friday; I need the class timetable corrected.,Academic-Timetable
+A9,Please help: Hall ticket for the ITA05 exam is not genertaed yet.,Exam-Results
+A10,Portal shows my MAT201 marks but the hall ticket download button is disabled by the IT system.,Exam-Results
+A11,"Respected sir, Please repair the power socket in my room 388 (C block), it stopped working last week.",Hostel-Maintenance
+A12,Mess bill of this month is wrongly added to my fee statement.,Fees-Finance
+A13,"Late fee was charged although I paid before the due date, semester 3.",Fees-Finance
+A14,Portal shows my ITA05 marks but the hall ticket download button is disabled by the IT system.,Exam-Results
+A15,Please help: Amount debited via UPI but fee shows pending for semester 4.,Fees-Finance
+A16,The geyser in room 213 is dead and the mess hot-water line also fails; fix the geyser first.,Hostel-Maintenance
+A17,Urgent - Period allotment for ECE-A on Wednesday clashes with the elective slot.,Academic-Timetable
+A18,Exam timetable and class timetable overlap for MECH on Tuesday; I need the class timetable corrected.,Academic-Timetable
+A19,Timetable for MECH section C shows two subjects at the same hour on Thursday.,Academic-Timetable
+A20,Exam timetable and class timetable overlap for CSE on Thursday; I need the class timetable corrected.,Academic-Timetable
+A21,Urgent - Period allotment for CSE-A on Tuesday clashesw ith the elective slot.,Academic-Timetable
+A22,Dinner was served late because the mess power socket failed; the food quality was poor as well.,Hostel-Mess
+A23,"Sir/Madam, MECH section B timetable has no free hour for lab on Monday, please revise.",Academic-Timetable
+A24,Wi-Fi in A block is down so I could not pay the semester fee online before the due date; please remove the late fee.,Fees-Finance
+A25,Wi-Fi in B block keeps disconnecting since morning.,IT-Portal-WiFi
+A26,Portal shows my CSA1111 marks but the hall ticket download button is disabled by the IT system.,Exam-Results
+A27,"Please help: Unable to log in to the student portal, OTP not received.",IT-Portal-WiFi
+A28,Portal shows my CSA1111 marks but the hall ticket download button is disabled by the IT system.,Exam-Results
+A29,My MAT201 inetrnal marks are missing from the portal.,Exam-Results
+A30,The geyser in room 116 is dead and the mess hot-water line also fails; fix the geyser first.,Hostel-Maintenance
+A31,Please help: My MAT201 internal marks are missing from hte portal.,Exam-Results
+A32,Dinner was served late because the mess power socket failed; the food quality was poor as well.,Hostel-Mess
+A33,Revaluation status for CSA6507 is not updated after morning.,Exam-Results
+A34,The tap in the mess washing area leaks all day.,Hostel-Maintenance
+A35,"Respected sir, Unable to log in to the student portal, OTP not erceived.",IT-Portal-WiFi
+A36,Exam timetable and class timetable overlap for CSE on Tuesday; I need the class timetable corrected.,Academic-Timetable
+A37,"Sir/Madam, Late fee was charged although I paid before the due date, semester 4.",Fees-Finance
+A38,The geyser in room 182 is dead and the mess hot-water line also fails; fix the geyser first.,Hostel-Maintenance
+A39,Please help: Wi-Fi in A block keeps disconnecting since three days.,IT-Portal-WiFi
+A40,Wi-Fi in A block is down so I could not pay the semester fee online before the due date; please remove the late fee.,Fees-Finance
+A41,"Sir/Madam, Class on Thursday for ECE B is not in the timetable but the faculty is taking it.",Academic-Timetable
+A42,Dinner was served late because the mess power socket failed; the food quality was poor as well.,Hostel-Mess
+A43,"Urgent - Water is leaking near the cot in room 359, A block. Please send th emaintenance staff.",Hostel-Maintenance
+A44,The tap in the mess washing area leaks all day.,Hostel-Maintenance
+A45,Class on Tuesday for ECE A is not in the timetable but the faculty is taking it.,Academic-Timetable
+A46,Exam timetable and class timetable overlap for ECE on Monday; I need the class timetable corrected.,Academic-Timetable
+A47,"Sir/Madam, Result for CSA6507 shows absent though I wrote the exam.",Exam-Results
+A48,Timetable page on the portal throws an error and I cannot see Wednesday classes.,IT-Portal-WiFi
+A49,Please help: Timetable for IT section B shows two subjects at the same hour on Monday.,Academic-Timetable

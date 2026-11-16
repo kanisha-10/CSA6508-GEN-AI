@@ -1,0 +1,51 @@
+qid,text,label
+E0,fan work aagala room 226 la,Hostel-Maintenance
+E1,tap leak aaguthu A block,Hostel-Maintenance
+E2,mess la sapadu romba mosam,Hostel-Mess
+E3,dinner la insects iruku pls check,Hostel-Mess
+E4,fees receipt varala but paid UPI,Fees-Finance
+E5,scholarship amount fee la adjust pannala,Fees-Finance
+E6,wifi connect aagala A block,IT-Portal-WiFi
+E7,portal login OTP varala,IT-Portal-WiFi
+E8,marks portal la illa MAT201,Exam-Results
+E9,hall ticket generate aagala,Exam-Results
+E10,timetable clash irukku Friday ECE,Academic-Timetable
+E11,Monday class timetable la illa sir,Academic-Timetable
+E12,fan not working,Hostel-Maintenance
+E13,wifi down,IT-Portal-WiFi
+E14,fee receipt?,Fees-Finance
+E15,mess food bad,Hostel-Mess
+E16,marks missing,Exam-Results
+E17,tiemtable clash,Academic-Timetable
+E18,recipt not genrated fees paid,Fees-Finance
+E19,hostle tube lite not wrking,Hostel-Maintenance
+E20,pasword reset not wrking portal,IT-Portal-WiFi
+E21,reslt shows absnt,Exam-Results
+E22,lunch romba late and cold,Hostel-Mess
+E23,tap udanjiduchu room 220,Hostel-Maintenance
+E24,semester fee paid but pending nu kaattuthu,Fees-Finance
+E25,fan work aagala room 359 la,Hostel-Maintenance
+E26,tap leak aaguthu C block,Hostel-Maintenance
+E27,mess la sapadu romba mosam,Hostel-Mess
+E28,dinner la insects iruku pls check,Hostel-Mess
+E29,fees receipt varala but paid UPI,Fees-Finance
+E30,scholarship amount fee la adjust pannala,Fees-Finance
+E31,wifi connect aagala C block,IT-Portal-WiFi
+E32,portal login OTP varala,IT-Portal-WiFi
+E33,marks portal la illa MAT201,Exam-Results
+E34,hall ticket generate aagala,Exam-Results
+E35,timetable clash irukku Monday MECH,Academic-Timetable
+E36,Wednesday class timetable la illa sir,Academic-Timetable
+E37,fan not working,Hostel-Maintenance
+E38,wifi down,IT-Portal-WiFi
+E39,fee receipt?,Fees-Finance
+E40,mess food bad,Hostel-Mess
+E41,marks missing,Exam-Results
+E42,tiemtable clash,Academic-Timetable
+E43,recipt not genrated fees paid,Fees-Finance
+E44,hostle tube lite not wrking,Hostel-Maintenance
+E45,pasword reset not wrking portal,IT-Portal-WiFi
+E46,reslt shows absnt,Exam-Results
+E47,lunch romba late and cold,Hostel-Mess
+E48,tap udanjiduchu room 113,Hostel-Maintenance
+E49,semester fee paid but pending nu kaattuthu,Fees-Finance

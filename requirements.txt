@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tiktoken          # exact token counts (otherwise a heuristic is used and logged)
+openai            # Q1-Q4,Q6,Q7 (OpenAI candidate)
+google-genai      # Q6 (Gemini candidate)
+torch             # Q1 fine-tune, Q5
+transformers
+peft

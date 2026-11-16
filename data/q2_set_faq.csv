@@ -1,0 +1,51 @@
+qid,text,label
+F0,What are the hostel in and out timings?,hostel_timing
+F1,till what time can we enter the hostel,hostel_timing
+F2,hostel gate closing time please,hostel_timing
+F3,what time does hostel gate close at night,hostel_timing
+F4,hostel entry timings?,hostel_timing
+F5,What is the last date to pay the semester fee?,fee_due
+F6,fee due date?,fee_due
+F7,when should i pay my fees by,fee_due
+F8,last day for fee payment,fee_due
+F9,till which date fee can be paid without fine,fee_due
+F10,How do I get a bonafide certificate?,bonafide
+F11,bonafide certificate procedure,bonafide
+F12,"need a bonafide letter, where to apply",bonafide
+F13,how to apply for bonafide,bonafide
+F14,where can i collect bonafide certificate,bonafide
+F15,What are the library opening hours?,library
+F16,library timing,library
+F17,till when is the library open,library
+F18,when does library close,library
+F19,library working hours on saturday,library
+F20,How can I download my hall ticket?,hallticket
+F21,hall ticket download link,hallticket
+F22,where to get hall ticket,hallticket
+F23,hall ticket not downloading how to get it,hallticket
+F24,how do i get hallticket for exams,hallticket
+F25,How do I apply for a bus pass?,bus_pass
+F26,bus pass application,bus_pass
+F27,college bus pass how to get,bus_pass
+F28,how to renew bus pass,bus_pass
+F29,where to apply for transport pass,bus_pass
+F30,How do I reset my Wi-Fi password?,wifi_reset
+F31,forgot wifi password what to do,wifi_reset
+F32,wifi password reset steps,wifi_reset
+F33,reset campus wifi login,wifi_reset
+F34,wifi login password change,wifi_reset
+F35,What is the mess menu for today?,mess_menu
+F36,today's mess menu,mess_menu
+F37,what is for dinner today in mess,mess_menu
+F38,weekly mess menu,mess_menu
+F39,mess food items list for the week,mess_menu
+F40,How do I apply for attendance condonation?,condonation
+F41,attendance condonation form,condonation
+F42,my attendance is low how to get condonation,condonation
+F43,condonation fee and procedure,condonation
+F44,who approves attendance condonation,condonation
+F45,How do I get a replacement ID card?,id_card
+F46,lost my id card what to do,id_card
+F47,duplicate id card procedure,id_card
+F48,id card replacement fee,id_card
+F49,where to apply for new student id,id_card

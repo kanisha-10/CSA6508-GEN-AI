@@ -1,0 +1,14 @@
+scenario,OpenAI-class,Gemini-class,HF local small,winner
+base,0.752,0.786,0.688,Gemini-class
+accuracy x0.8,0.746,0.784,0.693,Gemini-class
+accuracy x1.2,0.758,0.789,0.683,Gemini-class
+cost x0.8,0.757,0.786,0.679,Gemini-class
+cost x1.2,0.748,0.787,0.695,Gemini-class
+latency x0.8,0.754,0.786,0.691,Gemini-class
+latency x1.2,0.751,0.787,0.684,Gemini-class
+json_reliability x0.8,0.746,0.783,0.69,Gemini-class
+json_reliability x1.2,0.758,0.79,0.685,Gemini-class
+privacy x0.8,0.76,0.795,0.678,Gemini-class
+privacy x1.2,0.745,0.778,0.697,Gemini-class
+context_rate_limits x0.8,0.751,0.785,0.693,Gemini-class
+context_rate_limits x1.2,0.754,0.788,0.682,Gemini-class
